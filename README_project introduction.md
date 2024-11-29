@@ -13,7 +13,7 @@
 #### 6.Find the best weather condition for operation
 #### 7.Find wich aircraft poses more risk to human life
 #### 8.From the analysis come up with concrete business recommendations
-## This notebook os divided into 3 sections
+## This notebook os divided into 4 sections
 ## 1.Phase 1> data cleaning
 ### The objectives of this phase:
 ### At the end of this data cleaning phase this are the goals
