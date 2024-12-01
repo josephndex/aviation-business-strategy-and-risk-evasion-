@@ -14,4 +14,4 @@
 #### phone:+254114192225
 #### Email:josephnderitu2024@gmail.com
 #### linked: https://www.linkedin.com/in/joseph-nderitu-6132ab302/
-#### github repo: https://github.com/josephndex
+#### github repo: (https://github.com/josephndex)
