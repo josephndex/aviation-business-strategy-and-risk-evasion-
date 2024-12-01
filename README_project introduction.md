@@ -1,7 +1,7 @@
 # PROJECT: AVIATION STRATEGY AND RISK EVASION
 ## aviation-business-strategy-and-risk-evasion-
 ### This notebook is aimed at cleaning and analyzing data from the data.csv file Aviation Accident Database & Synopses from 1963 up to 2023 then using that data to come up with Business insights that will enable the company to venture into the aviation industry and diversify its portfolio.
-## The notebook has 4 strategic phases
+## The notebook has 4 strategic phases and each has its own read me file
 ### The insights gathered through our thorough data analysis will play a pivotal role in guiding the company towards making informed and strategic decisions. By identifying the optimal type of aircraft to invest in and developing a comprehensive low-risk strategy, the company can achieve enhanced operational efficiency and reduced risk exposure. my approach includes:
 #### 1.Data Preparation and Cleaning: Ensuring the dataset is clean and structured for meaningful analysis.
 #### 2.Feature Selection: Identifying key columns that provide valuable insights and focusing on those.

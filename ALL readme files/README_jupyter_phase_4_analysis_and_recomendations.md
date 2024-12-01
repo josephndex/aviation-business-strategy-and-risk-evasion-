@@ -13,10 +13,8 @@
 #### 9.Risk Assessment by Flight Phase:Analysis of the graph showing Count of Aircraft Incidents by Broad Phase of Flight and Damage Type reveals that the landing and takeoff phases pose the highest risk
 #### 10.High-Risk Phases:The data indicates that incidents are more frequent during the landing and takeoff phases compared to other phases of flight.
 #### 11.Weather Condition and Incident Analysis:The graph of Count of Aircraft Incidents by Weather Condition and Damage Type highlights that Visual Meteorological Conditions (VMC) are associated with the highest number of incidents. 
-#### analysis
 #### 12.Injury and Safety Comparison:The analysis of the graphs reveals that airplanes have the highest number of injured people. However, they also account for the highest number of uninjured individuals. This duality indicates that while airplanes are involved in more incidents, a significant proportion of these incidents result in no injuries.
 #### 13.Profitability vs. Risk:Given the data, airplanes appear to be the most lucrative aircraft type. They offer substantial potential for profitability but also come with a considerable amount of risk due to the high number of incidents.
-#### 14.Based on the overall analysis, it is advisable for the company to start with lightweight aircraft. These aircraft types pose lower risks and provide a safer entry point into the market. Over time, as the company gains more experience and establishes a strong operational foundation, it can progressively expand into larger, more lucrative aircraft like airplanes.
 ## Concrete Business Recommendations:
 ### After analyzing the data here are the recommendations i came up with
 #### 1.Initial Focus on Lightweight Crafts:Start operations with lightweight aircraft such as gliders, ultralights, and powered parachutes. These have shown lower incident rates, offering a safer entry into the market.
