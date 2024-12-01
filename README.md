@@ -40,7 +40,7 @@
 #### With our data now organized and categorized, we are well-prepared to proceed with detailed analyses and visualizations. These insights will guide our strategic decision-making processes, from determining the optimal aircraft type to identifying risk factors and operational efficiencies.
 
 ## phase 3>DATA VISUALIZATION 
-#### OBJECTIVES FOR ANALYSIS
+#### OBJECTIVES 
 #### 1.Create Visualizations
 #### Using the columns identified during the data analysis phase,I'll generate insightful visualizations to uncover patterns and trends.
 #### 1.Aircraft Type Analysis: A count chart showing the count of incidents by aircraft type.
