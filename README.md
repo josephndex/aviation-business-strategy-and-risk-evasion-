@@ -9,7 +9,6 @@
 #### 3.Location Analysis: Determining the key locations that influence operational outcomes.
 #### 4.Correlation Analysis: Examining the relationships between different variables to set strategic objectives.
 #### 5.Visualization: Creating detailed visualizations to highlight critical insights.
-### the notebook is divided into 3 phases
 
 ## Main Objectives(GOALS)
 ### At the end of this notebook, this are the goals I strive to archive:
